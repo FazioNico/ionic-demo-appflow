@@ -1,0 +1,8 @@
+{
+  "name": "ionic-demo-appflow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "89fc191d"
+}
