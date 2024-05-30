@@ -1,0 +1,11 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-demo-appflow",
+	"webDir": "www",
+	"packageClassList": [
+		"AppPlugin",
+		"HapticsPlugin",
+		"KeyboardPlugin",
+		"StatusBarPlugin"
+	]
+}
